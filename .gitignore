@@ -1,0 +1,68 @@
+# Specific
+Build/
+PerforceBinaries/
+Library/
+*.BASE.*.cpp
+*.LOCAL.*.cpp
+*.BACKUP.*.cpp
+*.REMOTE.*.cpp
+*.orig
+Test/tmp/*
+PerforcePlugin
+SubversionPlugin
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Output folders
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2010 local files
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+
+# Visual Studio 2015 local files
+.vs/
+
+# Test Ouput
+TestResults/
+
+# Sublime files
+*.sublime-project
+*.sublime-workspace
+server.pid
+
+# VI files
+*.swp
