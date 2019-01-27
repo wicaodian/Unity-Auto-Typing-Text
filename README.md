@@ -1,7 +1,7 @@
 # Unity-Auto-Typing-Text
 Use the variables in the "AutoTypingTextScript" script on "Script" GameObject to achieve your desired effect.
 
-Demo Scene Included.
+Demo Scene also Included.
 
 
 Follow me on
